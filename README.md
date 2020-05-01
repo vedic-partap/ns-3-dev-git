@@ -6,7 +6,7 @@ Network Traffic Dynamics Using Temporal Point Process
 
 1) An overview
 2) Building NTPP
-2) Building ns-3 model]
+2) Building ns-3 model
 3) Running NTPP Application
 4) Augurnet
 5) Working with the development version of ns-3
