@@ -151,3 +151,27 @@ However, we recommend to follow the Gitlab guidelines for starters,
 that includes creating a Gitlab account, forking the ns-3-dev project
 under the new account's name, and then cloning the forked repository.
 You can find more information in the manual [link].
+
+## Use for Academic puposes
+
+```
+
+@inproceedings{DBLP:conf/infocom/SahaGCD19,
+  author    = {Avirup Saha and
+               Niloy Ganguly and
+               Sandip Chakraborty and
+               Abir De},
+  title     = {Learning Network Traffic Dynamics Using Temporal Point Process},
+  booktitle = {2019 {IEEE} Conference on Computer Communications, {INFOCOM} 2019,
+               Paris, France, April 29 - May 2, 2019},
+  pages     = {1927--1935},
+  publisher = {{IEEE}},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/INFOCOM.2019.8737622},
+  doi       = {10.1109/INFOCOM.2019.8737622},
+  timestamp = {Wed, 16 Oct 2019 14:14:51 +0200},
+  biburl    = {https://dblp.org/rec/conf/infocom/SahaGCD19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+```
